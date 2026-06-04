@@ -4,6 +4,6 @@
 CDN加速Github地址，例如：
 https://cdn.jsdelivr.net/gh/noir1216/icon/
 
-https://cdn.jsdelivr.net/gh/noir1216/icon/ico/南+.ico
+https://cdn.jsdelivr.net/gh/noir1216/icon/ico/B站.ico
 
 https://fastly.jsdelivr.net/gh/noir1216/icon@master/ico/以图搜图.ico
